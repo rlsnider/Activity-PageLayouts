@@ -7,11 +7,12 @@
     display: inline-block;
     padding: 5px;
     border: 1px solid darkgray;
-    background-color:lightgray;
+    background-color:lightgray; 
+    letter-spacing: normal;
     } 
   /* 
   #one {
-    background-color:lightblue;
+    background-color:lightblue;git
     width: 150px;
     height: 200px;
   }
